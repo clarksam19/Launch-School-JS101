@@ -1,0 +1,20 @@
+{
+  "en": {
+    "welcome"  : "Welcome to the Loan Payment Calculator",
+    "amount"   : "What is the loan amount?",
+    "apr"      : "What is the APR?",
+    "duration" : "What is the loan duration (in months)?",
+    "invalid"  : "Please enter a positive number without (% $) symbols or words.",
+    "payment"  : "Your monthly payment is ",
+    "another"  : "Would you like to calculate another monthly payment amount? (Y/N)"
+  },
+  "fr": {
+    "welcome"  : "",
+    "amount"   : "",
+    "apr"      : "",
+    "duration" : "",
+    "invalid"  : "",
+    "payment"  : "",
+    "another"  : ""
+  }
+}
